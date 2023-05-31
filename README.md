@@ -1,12 +1,13 @@
+![MasterHead](https://im4.ezgif.com/tmp/ezgif-4-0a78534612.gif)
 <h1 align="center">Hi, I'm r1z0_n</h1>
-<h3 align="center">A wannabe android developer from Bangladesh.</h3>
-<img align="right" alt="Coding" width ="400"src="https://imgur.com/gallery/7A5ZfPJ">
-
-- 🌱 I’m currently learning **Python, Java Script and Kotlin.**
-
-- 📫 How to reach me **shiraishi_tanaka@protonmail.com**
-
-- ⚡ Fun fact **I watch too much anime, K-drama and addicted to games.**
+<h3 align="right">A wannabe android developer from Bangladesh.</h3>
+<img align="right" width ="400" src="https://media.tenor.com/ZtuVwa_2f1oAAAAC/kobayashi-san-chi-no-maid-dragon-anime.gif">
+ 
+ - 🌱 I’m currently learning **Python, Java Script and Kotlin.**
+ 
+ - 📫 How to reach me **shiraishi_tanaka@protonmail.com**
+ 
+ - ⚡ Fun fact **I watch too much anime, K-drama and addicted to games.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
