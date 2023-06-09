@@ -1,4 +1,4 @@
-![MasterHead](https://imgur.com/a/tTSwLB0)
+<img align="center" height="300" width ="1000" src="https://i.kym-cdn.com/photos/images/original/000/805/627/fdc.gif">
 <h1 align="center">Hi, I'm r1z0_n</h1>
 <h3 align="right">A wannabe android developer from Bangladesh.</h3>
 <img align="right" width ="400" src="https://media.tenor.com/ZtuVwa_2f1oAAAAC/kobayashi-san-chi-no-maid-dragon-anime.gif">
