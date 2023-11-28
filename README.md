@@ -3,7 +3,7 @@
 <h3 align="right">A wannabe android developer from Bangladesh.</h3>
 <img align="right" width ="400" src="https://media.tenor.com/ZtuVwa_2f1oAAAAC/kobayashi-san-chi-no-maid-dragon-anime.gif">
  
- - 🌱 I’m currently learning **Python, Java Script and Kotlin.**
+ - 🌱 I’m currently learning **Python, Java and Kotlin.**
  
  - 📫 How to reach me **shiraishi_tanaka@protonmail.com**
  
